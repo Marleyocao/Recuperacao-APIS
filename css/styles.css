@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 1em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+#listaAmigos img {
+    width: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#meuPerfil img {
+    width: 250px;
+    border-radius: 100%;
+    cursor: pointer;
+}
